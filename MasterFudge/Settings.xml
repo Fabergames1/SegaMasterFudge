@@ -1,0 +1,9 @@
+<Nini>
+  <Section Name="Options" />
+  <Section Name="System" />
+  <Section Name="Paths">
+    <Key Name="RecentFiles" Value="|||||||||||" />
+  </Section>
+  <Section Name="Input" />
+  <Section Name="InputPlayer1" />
+</Nini>
